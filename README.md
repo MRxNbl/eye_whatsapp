@@ -2,7 +2,7 @@ Dont share this...
 It is prifat
 
 
-You joke with me..you die
+Noymusto paradise 
 
 
 Please Support me...
